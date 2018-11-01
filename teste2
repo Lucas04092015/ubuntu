@@ -1,0 +1,21 @@
+#!/bin/bash
+#Meu Seugundo Script
+
+#Vendo Em Qual Diretorio Eu Estou
+pwd
+
+#Entrando no diretorio Home
+cd /home
+
+#Criando Uma Pasta no Diretorio Home
+mkdir site
+
+#Renomeando a Pasta Site
+mv site site.bkp
+
+#Voltando Pra Raiz
+cd /
+
+#Nome do Meu Computador
+hostname
+
