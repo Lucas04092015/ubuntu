@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#criando um arquivo
+touch ~/home/nada
+
+#Inserindo Conteudo No Arquivo
+echo Lucas Ramos > ~/home/nada
+
+#Nome do Meu Computador
+hostname
+
+#Vendo Usuario Logado No Linux
+echo $USER
